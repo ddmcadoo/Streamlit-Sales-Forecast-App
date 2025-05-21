@@ -27,6 +27,9 @@ To run this Streamlit app on your local machine:
 
 http://localhost:8501
 
+### Next Steps:
+Modify the the app.py file to be more accomdating of different feautres that one may want to use. 
+
 
 1. Clone the repo:
    ```bash
