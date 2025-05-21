@@ -11,7 +11,7 @@ To run this Streamlit app on your local machine:
 - Download app.py
 -Download the sales data file
 
-Save them in the same folder on your computer
+- Save them in the same folder on your computer
 
 ### 2. Open a Terminal or Command Prompt
 ### 3. Navigate to the folder where you saved the files:
