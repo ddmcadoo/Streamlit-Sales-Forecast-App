@@ -1,6 +1,6 @@
 # Streamlit-Sales-Forecast-App
 
-This is an interactive Streamlit web app that forecasts sales based on historical data and visualizes weekly trends. Built with Python, Streamlit, and machine learning.
+This is an interactive Streamlit web app that forecasts sales based on historical data and creates a forecast for the next 30 days. Built with Python, Streamlit, and machine learning.
 
 ## How to Run
 
@@ -28,7 +28,10 @@ To run this Streamlit app on your local machine:
 http://localhost:8501
 
 ### Next Steps:
-Modify the the app.py file to be more accomdating of different feautres that one may want to use. 
+- Modify the the app.py file to be more accomdating of different feautres that one may want to use.
+- Incldue visuals to show trends over time.
+- Build in functionality to chose forecast horizon. 
+
 
 
 1. Clone the repo:
