@@ -7,15 +7,15 @@ This is an interactive Streamlit web app that forecasts sales based on historica
 How to Run This App Locally
 To run this Streamlit app on your local machine:
 
-1. Download the Files:
-Download app.py
-Download the sales data file (e.g., sales_data.csv)
+### 1. Download the Files:
+- Download app.py
+-Download the sales data file
 
 Save them in the same folder on your computer
 
-2. Open a Terminal or Command Prompt
-Navigate to the folder where you saved the files:
-cd path/to/your/folder
+### 2. Open a Terminal or Command Prompt
+### 3. Navigate to the folder where you saved the files:
+- cd path/to/your/folder
 
 4. Install Streamlit (if you haven’t already)
 pip install streamlit
