@@ -30,7 +30,7 @@ http://localhost:8501
 ### Next Steps:
 - Modify the the app.py file to be more accomdating of different feautres that one may want to use.
 - Incldue visuals to show trends over time.
-- Build in functionality to chose forecast horizon. 
+- Build in functionality to choose forecast horizon. 
 
 
 
