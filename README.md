@@ -17,13 +17,13 @@ Save them in the same folder on your computer
 ### 3. Navigate to the folder where you saved the files:
 - cd path/to/your/folder
 
-4. Install Streamlit (if you haven’t already)
-pip install streamlit
+### 4. Install Streamlit (if you haven’t already)
+- pip install streamlit
 
-6. Run the App
-streamlit run app.py
+### 5. Run the App
+- streamlit run app.py
 
-The app will open in your default browser at:
+### The app will open in your default browser at:
 
 http://localhost:8501
 
